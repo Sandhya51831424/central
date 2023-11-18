@@ -1,1 +1,3 @@
-hello world
+
+hi, i am initializing the git tutorials again
+>>>>>>> 741e07f (first commit)
